@@ -1,0 +1,35 @@
+.list{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.items{
+ width: 500px;
+ color:#353935;
+ font-size: 20px;
+ margin: 0 auto;
+}
+.itemName{
+font-size: bold;
+padding: 20px;
+}
+.line{
+    border: 1px solid #f4f4f4;
+}
+.deleteButton{
+    float: right;
+    padding: 12px 20px;
+    border:none;
+    background-color: #f7ca18;
+    color: white;
+    margin-top: -5px;
+    border-radius: 4px;
+}
+.complete{
+text-decoration: line-through;
+}
